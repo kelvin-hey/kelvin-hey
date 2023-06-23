@@ -1,5 +1,3 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/kelvinhey)
-
 ![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=dracula&count_private=true)
 
 ## Principais tecnologias
