@@ -1,3 +1,7 @@
+# ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Indie+Flower&size=24&pause=1000&color=ffa500&background=FFFFFF00&vCenter=true&width=700&height=34&lines=🍂Olá.+Eu+sou+Kelvin+Hey,+Desenvolveder+back-end)
+
+Sou acadêmico de Análise e Desenvolvimento de Sistemas e estudante de Desenvolvimento Web
+
 ![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=dark&count_private=true)
 
 ## Principais tecnologias
