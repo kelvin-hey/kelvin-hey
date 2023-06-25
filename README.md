@@ -2,7 +2,7 @@
 
 Sou acadêmico de Análise e Desenvolvimento de Sistemas e estudante de Desenvolvimento Web
 
-![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=dark&count_private=true)
+![Kelvin GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Principais tecnologias
 
