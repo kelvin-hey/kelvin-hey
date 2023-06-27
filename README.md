@@ -4,7 +4,7 @@
 - 🔭 Atualmente estudando Desenvolvimento Web com foco em PHP <br>
 
 <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=gruvbox&count_private=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=gruvbox&count_private=true" style"max-width: 100%;" /> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&theme=gruvbox" style"max-width: 100%;" />
  </a>
 </div>
