@@ -17,7 +17,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3)
-![ShellScript](https://img.shields.io/badge/-Shell%20Script-222222?style=flat&logo=gnu-bash)
 ![Delphi](https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi)
 
 #### Frameworks
@@ -34,3 +33,5 @@
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash)
+![Laragon](https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624)
