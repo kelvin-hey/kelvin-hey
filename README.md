@@ -56,7 +56,7 @@
 <!-- Github loading GIF -->
 <p align="center">
   <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
-  <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=100px height="100"></picture> 
+  <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=75px height="75"></picture> 
 </p>
 
 <p align="center">
