@@ -1,4 +1,16 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Indie+Flower&size=24&pause=1000&color=ffa500&background=FFFFFF00&vCenter=true&width=700&height=34&lines=🍂+Olá.+Eu+sou+Kelvin+Hey,+Desenvolveder+back-end)
+<h1 align="center"><b>Kelvin Hey</b></h1>
+
+<br>
+
+<p align="center">
+<picture><img src="https://raw.githubusercontent.com/Kelvin-Hey/Kelvin-Hey/main/assets/intro.gif" width = 50px></picture>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" /></a>
+</p>
+
+
  
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 - 🔭 Atualmente estudando sobre Java e suas tecnologias relacionadas <br>
