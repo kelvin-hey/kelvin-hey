@@ -51,8 +51,14 @@
 ![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash)
 ![Laragon](https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624)
 
+<br>
+
 <!-- Github loading GIF -->
 <p align="center">
   <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
   <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=100px height="100"></picture> 
+</p>
+
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&width=435&lines=Loading....." alt="Typing SVG" /></a>
 </p>
