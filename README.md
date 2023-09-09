@@ -2,8 +2,10 @@
 
 <br>
 
+<!-- Programmer GIF -->
 <p align="center">
-  <picture><img src="https://raw.githubusercontent.com/Kelvin-Hey/Kelvin-Hey/main/assets/intro.gif" width = 50px></picture>
+  <!-- Credits of the gif: https://github.com/0xabdulkhalid -->
+  <picture><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width=100px height="100"></picture>
 </p>
 
 <p align="center">
@@ -48,3 +50,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash)
 ![Laragon](https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624)
+
+<!-- Github loading GIF -->
+<p align="center">
+  <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
+  <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=100px height="100"></picture> 
+</p>
