@@ -10,16 +10,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" /></a>
 </p>
 
-
- 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
-- 🔭 Atualmente estudando sobre Java e suas tecnologias relacionadas <br>
-
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=darcula&count_private=true" style"max-width: 100%;" /> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&theme=darcula" style"max-width: 100%;" />
+<div align="center">
+ <a href="https://github.com/GilbertoASJ/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&show_icons=true&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&layout=compact&theme=dark" style"max-width: 100%;" />
  </a>
 </div>
+
+## Sobre mim
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
+- 🔭 Atualmente estudando sobre Java e suas tecnologias relacionadas <br>
 
 ## Principais tecnologias
 
