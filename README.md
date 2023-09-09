@@ -3,11 +3,11 @@
 <br>
 
 <p align="center">
-<picture><img src="https://raw.githubusercontent.com/Kelvin-Hey/Kelvin-Hey/main/assets/intro.gif" width = 50px></picture>
+  <picture><img src="https://raw.githubusercontent.com/Kelvin-Hey/Kelvin-Hey/main/assets/intro.gif" width = 50px></picture>
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" /></a>
+  <a href="https://github.com/Kelvin-Hey"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
