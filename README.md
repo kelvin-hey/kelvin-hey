@@ -1,4 +1,4 @@
-<h1 align="center"><b>Kelvin Hey</b></h1>
+<h3 align="center"><b>Kelvin Hey</b></h3>
 
 <br>
 
@@ -19,12 +19,12 @@
  </a>
 </div>
 
-## Sobre mim
+### Sobre mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 - 🔭 Atualmente estudando sobre Java e suas tecnologias relacionadas <br>
 
-## Principais tecnologias
+### Principais tecnologias
 
 #### Linguagens
 
