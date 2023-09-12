@@ -1,10 +1,10 @@
 <!-- Programmer GIF -->
 <p align="center">
   <!-- Credits of the gif: https://github.com/0xabdulkhalid -->
-  <picture><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width=100px height="100"></picture>
+  <picture><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width=75px height="75"></picture>
 </p>
 
-<h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1>
+<h3 align="center"><b>ҜΞLVIИ HΞУ</b></h3>
 
 <br>
 
@@ -12,13 +12,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" />
 </p>
 
-<!-- Badges -->
+<!-- Badges 1° line -->
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk"/>
-  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk&logoColor=yellow"/>
+  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi&logoColor=red"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql"/>  
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-222222?style=flat&logo=intellij-idea&logoColor=orange"/>  
+</p>
+
+<!-- Badges 2° line -->
+<p align="center">  
   <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"/>
   <img alt="Github" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript"/>
