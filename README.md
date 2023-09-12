@@ -1,4 +1,4 @@
-<h3 align="center"><b>ҜΞLVIИ HΞУ</b></h3>
+<h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1>
 
 <br>
 
