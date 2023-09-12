@@ -1,16 +1,36 @@
-<h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1>
-
-<br>
-
 <!-- Programmer GIF -->
 <p align="center">
   <!-- Credits of the gif: https://github.com/0xabdulkhalid -->
   <picture><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width=100px height="100"></picture>
 </p>
 
+<h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1>
+
+<br>
+
 <p align="center">
-  <a href="https://github.com/Kelvin-Hey"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" />
 </p>
+
+<!-- Badges -->
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk"/>
+  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql"/>  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"/>
+  <img alt="Github" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript"/>
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-222222?style=flat&logo=html5"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap"/>  
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624"/>  
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash"/>  
+  <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624"/>  
+</p>
+
+<br> 
 
 <div align="center">
  <a href="https://github.com/kelvin-hey/">
@@ -19,39 +39,7 @@
  </a>
 </div>
 
-### Sobre mim
-
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
-- 🔭 Atualmente estudando sobre Java e suas tecnologias relacionadas <br>
-
-### Principais tecnologias
-
-#### Linguagens
-
-![PHP](https://img.shields.io/badge/-PHP-222222?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-222222?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3)
-![Delphi](https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi)
-
-#### Frameworks
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap)
-
-#### Banco de dados
-
-![Mysql](https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql)
-
-#### Ferramentas
-
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash)
-![Laragon](https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624)
-
-<br>
+<br> <br>
 
 <!-- Github loading GIF -->
 <p align="center">
