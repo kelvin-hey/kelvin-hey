@@ -44,7 +44,14 @@
  </a>
 </div>
 
-<br> <br>
+<br> 
+
+<p align="center">
+  <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
+  <picture><img src="https://github.com/Kelvin-Hey/Kelvin-Hey/blob/main/assets/dinosauro.gif"></img></picture> 
+</p>
+
+<br>
 
 <!-- Github loading GIF -->
 <p align="center">
