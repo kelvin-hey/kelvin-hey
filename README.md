@@ -48,7 +48,7 @@
 
 <p align="center">
   <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
-  <picture><img src="https://github.com/Kelvin-Hey/Kelvin-Hey/blob/main/assets/dinosauro.gif"></img></picture> 
+  <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/dinosauro.gif"></img></picture> 
 </p>
 
 <br>
