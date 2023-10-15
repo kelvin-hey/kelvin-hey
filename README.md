@@ -1,19 +1,34 @@
-<!-- Programmer GIF -->
-<p align="center">
+<!-- <h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1> -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=ff9800&center=true&width=435&lines=Olá, Kelvin+Hey+aqui+👋" alt="Typing SVG"/>
+</h2>
+
+<picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/programmer-coding.jpg"></picture>
+
+<p align="left">
   <!-- Credits of the gif: https://github.com/0xabdulkhalid -->
-  <picture><img src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width=75px height="75"></picture>
+  <picture><img src="">Tecnologias</picture>
 </p>
 
-<h3 align="center"><b>ҜΞLVIИ HΞУ</b></h3>
+<img align="left" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width="30" height="30">
 
-<br>
+<h3>ㅤSobre mim</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=13669D&center=true&width=435&lines=Desenvolvedor+back-end+Java+%E2%98%95" alt="Typing SVG" />
-</p>
+<ul>
+  <li>💻 Analista de Sistemas</li>
+  <li>☕ Desenvolvedor Java</li> 
+  <li>🐧 Entusiasta de Linux</li>
+  <li>🧐 Interesado em desenvolvimento back-end</li>
+  <li>🌱 Atualmente aprendendo sobre Java e tecnologias relacionadas</li>
+</ul>
+
+<img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28">
+
+<h3>ㅤTecnologias</h3>
 
 <!-- Badges 1° line -->
-<p align="center">
+<p align="left">
   <img alt="Java" src="https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk&logoColor=yellow"/>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=green"/>
   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi&logoColor=red"/>
@@ -21,11 +36,11 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"/>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624"/>  
+  <img alt="Github" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>
 </p>
 
 <!-- Badges 2° line -->
-<p align="center">  
-  <img alt="Github" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>
+<p align="left">   
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript"/>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-222222?style=flat&logo=html5"/>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3"/>
@@ -46,19 +61,18 @@
 
 <br> 
 
+<!--
 <p align="center">
-  <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
+  <!-- Credits of the gif: https://github.com/ahmed-aliraqi 
   <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/dinosauro.gif"></img></picture> 
 </p>
 
-<br>
-
-<!-- Github loading GIF -->
+<!-- Github loading GIF 
 <p align="center">
-  <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
+  <!-- Credits of the gif: https://github.com/ahmed-aliraqi 
   <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=75px height="75"></picture> 
 </p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&width=435&lines=Loading....." alt="Typing SVG" /></a>
-</p>
+</p> -->
