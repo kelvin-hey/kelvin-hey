@@ -1,7 +1,7 @@
 <!-- <h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1> -->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=ff9800&center=true&width=435&lines=Olá, Kelvin+Hey+aqui+👋" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff9800&center=true&width=435&lines=Olá, Kelvin+Hey+aqui+👋" alt="Typing SVG"/>
 </h3>
 
 <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/programmer-coding.jpg"></picture>
@@ -54,8 +54,14 @@
 
 <div align="center">
  <a href="https://github.com/kelvin-hey/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=dark" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
+ </a>
+</div>
+
+<div align="center">
+ <a href="https://github.com/kelvin-hey/">
+  <img height="180em" src="https://streak-stats.demolab.com?user=kelvin-hey&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121"/>
  </a>
 </div>
 
