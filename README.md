@@ -1,8 +1,8 @@
 <!-- <h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1> -->
 
-<h2 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=28&pause=1000&color=ff9800&center=true&width=435&lines=Olá, Kelvin+Hey+aqui+👋" alt="Typing SVG"/>
-</h2>
+</h3>
 
 <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/programmer-coding.jpg"></picture>
 
