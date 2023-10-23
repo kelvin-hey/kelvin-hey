@@ -54,9 +54,11 @@
 
 <div align="left">   
   <a href="https://github.com/kelvin-hey/sig-upa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=sig-upa&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="sig-upa"></a>
+  <a href="https://github.com/kelvin-hey/tcc-tads-ifpr"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=tcc-tads-ifpr&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="tcc-tads-ifpr"></a>      
   <a href="https://github.com/kelvin-hey/api-gerenciamento-de-clientes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=api-gerenciamento-de-clientes&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="api-gerenciamento-de-clientes"></a>
   <a href="https://github.com/kelvin-hey/banco-de-dados-loja-de-games"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=banco-de-dados-loja-de-games&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="banco-de-dados-loja-de-games"></a>
   <a href="https://github.com/kelvin-hey/modelagem-loja-de-e-commerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=modelagem-loja-de-e-commerce&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="modelagem-loja-de-e-commerce"></a>  
+  <a href="https://github.com/kelvin-hey/equilux-black"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=equilux-black&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="equilux-black"></a>      
 </div>
 
 <h3>Estatísticas</h3>
@@ -69,8 +71,8 @@
 
 <div align="center">
   <a href="https://github.com/kelvin-hey/">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/> 
   </a>
 </div>
 
