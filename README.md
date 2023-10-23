@@ -61,12 +61,17 @@
 
 <h3>Estatísticas</h3>
 
-<div align="left">
+<div align="center">
  <a href="https://github.com/kelvin-hey/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
-   <img height="180em" src="https://streak-stats.demolab.com?user=kelvin-hey&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121&locale=pt-BR"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=kelvin-hey&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121&locale=pt-BR"/>
  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kelvin-hey/">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;" /> 
+  </a>
 </div>
 
 
