@@ -24,47 +24,62 @@
 Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me tornar um Desenvolvedor Java. Meu foco principal está no <b>desenvolvimento de back-end</b> onde já tive a oportunidade de atuar como estagiário, trabalhando com a linguagem Object Pascal e também com banco de dados MySQL e Firebird. Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java e explorar suas tecnologias relacionadas. Com um olhar atento para o mundo do desenvolvimento, estou sempre em busca de novos conhecimentos e oportunidades para aprimorar minha carreira nesse campo em constante evolução.
 </p>
 
-<!-- <ul>
-  <li>💻 Analista de Sistemas</li>
-  <li>☕ Desenvolvedor Java</li> 
-  <li>🐧 Entusiasta de Linux</li>
-  <li>🧐 Interesado em desenvolvimento back-end</li>
-  <li>🌱 Atualmente aprendendo sobre Java e tecnologias relacionadas</li>
-</ul> -->
+<!-- <img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28"> -->
 
-<img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28">
+<br>
 
-<h3>&nbsp Tecnologias</h3>
-
+<!-- Tecnologias -->
 <p align="left">
-  <ul>
-    <li>Back-end<br> <br>
-      <img alt="Java" src="https://img.shields.io/badge/-Java-222222?style=flat&logo=openjdk&logoColor=yellow"/>
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=green"/>
-      <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-222222?style=flat&logo=delphi&logoColor=red"/>
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=flat&logo=mysql"/>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql"/>
-      <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032"/>
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624"/>  
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-222222?style=flat&logo=gnu-bash"/>      
-    </li>  
-  </ul>
-  <ul>
-    <li>Front-end</li> <br>
-      <img alt="HTML" src="https://img.shields.io/badge/-HTML-222222?style=flat&logo=html5"/>
-      <img alt="CSS" src="https://img.shields.io/badge/-CSS-222222?style=flat&logo=css3"/>
-      <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-222222?style=flat&logo=Bootstrap"/>    
-  </ul>
-  <ul>
-    <li>Ferramentas</li> <br>
-      <img alt="Github" src="https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717"/>      
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript"/>
-      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-222222?style=flat&logo=intellij-idea&logoColor=orange"/>  
-      <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-222222?style=flat&logo=laragon&logoColor=FCC624"/>  
-  </ul>  
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/tecnologias.png" alt="Tecnologias"/>
 </p>
 
-<h3>Projetos</h3>
+
+#### Back-end
+<p align="left">
+      <img alt="Java" src="https://img.shields.io/badge/-Java-212121?style=flat&logo=openjdk&logoColor=yellow"/>
+      <img alt="Spring" src="https://img.shields.io/badge/-Spring-212121?style=flat&logo=spring&logoColor=green"/>
+      <!--<img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-212121.svg?logo=check-circle&logoColor=25A162"></a>-->
+      <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-212121?style=flat&logo=delphi&logoColor=red"/>
+      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-212121.svg?logo=database&logoColor=white">
+      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-212121?style=flat&logo=mysql"/>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-212121?style=flat&logo=postgresql"/>
+      <img alt="Git" src="https://img.shields.io/badge/-Git-212121?style=flat&logo=git&logoColor=F05032"/>
+      <img alt="Linux" src="https://img.shields.io/badge/-Linux-212121?style=flat&logo=linux&logoColor=FCC624"/>  
+      <img alt="Bash" src="https://img.shields.io/badge/-Bash-212121?style=flat&logo=gnu-bash"/>      
+</p> 
+
+#### Front-end
+<p align="left">
+   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-212121.svg?logo=markdown&logoColor=white"></a>   
+   <img alt="HTML" src="https://img.shields.io/badge/-HTML-212121?style=flat&logo=html5"/>
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS-212121?style=flat&logo=css3"/>
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-212121?style=flat&logo=Bootstrap"/>    
+</p>
+
+#### Ferramentas
+<p align="left">    
+      <img alt="Github" src="https://img.shields.io/badge/-GitHub-212121?style=flat&logo=github&logoColor=181717"/>      
+      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-212121.svg?logo=github&logoColor=181717">
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?logo=postman&logoColor=FF6C37"></a>      
+      <img alt="Android" src="https://img.shields.io/badge/Android-212121?logo=android&logoColor=008678"></a>
+      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-212121.svg?logo=android-studio&logoColor=008678"></a>
+      <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-212121?style=flat&logo=laragon&logoColor=FCC624"/>  
+</p>
+<p align="left">    
+      <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-212121.svg?logo=Replit&logoColor=white"></a>    
+      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-212121.svg?logo=google%20sheets&logoColor=34A853">
+      <img alt="Google Docs" src="https://img.shields.io/badge/Docs-212121.svg?logo=google%20docs&logoColor=blue">
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-212121?logo=stack-overflow&logoColor=FE7A16"></a>
+      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?logo=visual-studio-code&logoColor=0078d7"></a>
+      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-212121?style=flat&logo=intellij-idea&logoColor=orange"/>  
+</p>
+
+<br>
+
+<!-- Projetos -->
+<p align="left">
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/projetos.png" alt="Projetos"/>
+</p>
 
 <div align="left">   
   <a href="https://github.com/kelvin-hey/sig-upa"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=sig-upa&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="sig-upa"></a>
@@ -75,26 +90,24 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
   <a href="https://github.com/kelvin-hey/equilux-black"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=equilux-black&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="equilux-black"></a>      
 </div>
 
-<h3>Estatísticas</h3>
+<br>
 
-<div align="center">
- <a href="https://github.com/kelvin-hey/">
-  <img height="180em" src="https://streak-stats.demolab.com?user=kelvin-hey&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121&locale=pt-BR"/>
- </a>
-</div>
+<!-- Estatísticas -->
+<p align="left">
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/estatisticas.png" alt="Projetos"/>
+</p>
 
-<div align="center">
-  <a href="https://github.com/kelvin-hey/">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/> 
-  </a>
-</div>
-
-
-<div align="center">
+<!-- 
+<div align="left">
  <a href="https://github.com/kelvin-hey/">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kelvin-hey&bg_color=212121&color=ff9800&line=ffffff&point=FFFFFF&hide_border=true&locale=pt_BR"/>
  </a>
+</div> -->
+
+<div align="left">
+  <img width="278" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>   
+  <img width="352" height="160" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&layout=compact&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>
+  <!-- <img width="278" src="https://streak-stats.demolab.com?user=kelvin-hey&layout=compact&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121&locale=pt-BR"/> -->
 </div>
 
 <br> 
