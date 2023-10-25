@@ -1,7 +1,12 @@
 <!-- <h1 align="center"><b>ҜΞLVIИ HΞУ</b></h1> -->
 
+<p align="center">
+  <a href="https://github.com/kelvin-hey">
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/kelvin_hey.png" alt="Kelvin Hey" /></a>
+</p>
+
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff9800&center=true&width=435&lines=Olá, Kelvin+Hey+aqui+👋" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ff9800&center=true&width=435&lines=Desenvolvedor+back-end+Java" alt="Typing SVG"/>
 </h3>
 
 <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/programmer-coding.jpg"></picture>
