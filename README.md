@@ -11,9 +11,14 @@
 
 <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/programmer-coding.jpg"></picture>
 
-<img align="left" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width="30" height="30">
+<!-- <img align="left" src="https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width="30" height="30"> -->
 
-<h3>&nbsp Sobre mim</h3>
+<br>
+
+<!-- Sobre mim -->
+<p align="left">
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/sobre_mim.png" alt="Sobre mim" /></a>
+</p>
 
 <ul>
   <li>💻 Analista de Sistemas</li>
