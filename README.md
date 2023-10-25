@@ -33,45 +33,38 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/tecnologias.png" alt="Tecnologias"/>
 </p>
 
-
-<b>Back-end</b> <br>
 <p align="left">
-      <img alt="Java" src="https://img.shields.io/badge/-Java-212121?style=flat&logo=openjdk&logoColor=yellow"/>
-      <img alt="Spring" src="https://img.shields.io/badge/-Spring-212121?style=flat&logo=spring&logoColor=green"/>
-      <!--<img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-212121.svg?logo=check-circle&logoColor=25A162"></a>-->
-      <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-212121?style=flat&logo=delphi&logoColor=red"/>
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-212121.svg?logo=database&logoColor=white">
-      <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-212121?style=flat&logo=mysql"/>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-212121?style=flat&logo=postgresql"/>
-      <img alt="Git" src="https://img.shields.io/badge/-Git-212121?style=flat&logo=git&logoColor=F05032"/>
-      <img alt="Linux" src="https://img.shields.io/badge/-Linux-212121?style=flat&logo=linux&logoColor=FCC624"/>  
-      <img alt="Bash" src="https://img.shields.io/badge/-Bash-212121?style=flat&logo=gnu-bash"/>      
-</p> 
-
-<b>Front-end</b> <br>
-<p align="left">
-   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-212121.svg?logo=markdown&logoColor=white"></a>   
-   <img alt="HTML" src="https://img.shields.io/badge/-HTML-212121?style=flat&logo=html5"/>
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-212121?style=flat&logo=css3"/>
-   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-212121?style=flat&logo=Bootstrap"/>    
+   <img alt="Java" src="https://img.shields.io/badge/-Java-212121?style=flat&logo=openjdk&logoColor=yellow"/> &nbsp 
+   <img alt="Spring" src="https://img.shields.io/badge/-Spring-212121?style=flat&logo=spring&logoColor=green"/> &nbsp 
+   <!--<img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-212121.svg?logo=check-circle&logoColor=25A162"></a>-->
+   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-212121?style=flat&logo=delphi&logoColor=red"/> &nbsp 
+   <img alt="Linux" src="https://img.shields.io/badge/-Linux-212121?style=flat&logo=linux&logoColor=FCC624"/> &nbsp
+   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-212121.svg?logo=database&logoColor=white"> &nbsp
+   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-212121?style=flat&logo=mysql"/> &nbsp 
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-212121?style=flat&logo=postgresql"/> &nbsp
+   <img alt="Git" src="https://img.shields.io/badge/-Git-212121?style=flat&logo=git&logoColor=F05032"/> &nbsp
+   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-212121.svg?logo=markdown&logoColor=white"></a> &nbsp
+   <img alt="HTML" src="https://img.shields.io/badge/-HTML-212121?style=flat&logo=html5"/> &nbsp
+   <img alt="CSS" src="https://img.shields.io/badge/-CSS-212121?style=flat&logo=css3"/> &nbsp
+   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-212121?style=flat&logo=Bootstrap"/> &nbsp
 </p>
 
-<b>Ferramentas</b> <br>
-<p align="left">    
-      <img alt="Github" src="https://img.shields.io/badge/-GitHub-212121?style=flat&logo=github&logoColor=181717"/>      
-      <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-212121.svg?logo=github&logoColor=181717">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?logo=postman&logoColor=FF6C37"></a>      
-      <img alt="Android" src="https://img.shields.io/badge/Android-212121?logo=android&logoColor=008678"></a>
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-212121.svg?logo=android-studio&logoColor=008678"></a>
-      <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-212121?style=flat&logo=laragon&logoColor=FCC624"/>  
+<p align="left">
+   <img alt="Github" src="https://img.shields.io/badge/-GitHub-212121?style=flat&logo=github&logoColor=181717"/> &nbsp
+   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-212121.svg?logo=github&logoColor=181717"> &nbsp
+   <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?logo=postman&logoColor=FF6C37"> &nbsp
+   <img alt="Android" src="https://img.shields.io/badge/Android-212121?logo=android&logoColor=008678"> &nbsp
+   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-212121.svg?logo=android-studio&logoColor=008678"> &nbsp
+   <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-212121?style=flat&logo=laragon&logoColor=FCC624"/> &nbsp
+   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-212121.svg?logo=Replit&logoColor=white"> &nbsp   
+   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-212121?logo=stack-overflow&logoColor=FE7A16"> &nbsp
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?logo=visual-studio-code&logoColor=0078d7"> &nbsp   
 </p>
-<p align="left">    
-      <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-212121.svg?logo=Replit&logoColor=white"></a>    
-      <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-212121.svg?logo=google%20sheets&logoColor=34A853">
-      <img alt="Google Docs" src="https://img.shields.io/badge/Docs-212121.svg?logo=google%20docs&logoColor=blue">
-      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-212121?logo=stack-overflow&logoColor=FE7A16"></a>
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?logo=visual-studio-code&logoColor=0078d7"></a>
-      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-212121?style=flat&logo=intellij-idea&logoColor=orange"/>  
+
+<p align="left">   
+   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-212121?style=flat&logo=intellij-idea&logoColor=orange"/> &nbsp
+   <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-212121.svg?logo=google%20sheets&logoColor=34A853"> &nbsp
+   <img alt="Google Docs" src="https://img.shields.io/badge/Docs-212121.svg?logo=google%20docs&logoColor=blue"> &nbsp
 </p>
 
 <br>
