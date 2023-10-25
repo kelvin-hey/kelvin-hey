@@ -47,9 +47,6 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
    <img alt="HTML" src="https://img.shields.io/badge/-HTML-212121?style=flat&logo=html5"/> &nbsp
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-212121?style=flat&logo=css3"/> &nbsp
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-212121?style=flat&logo=Bootstrap"/> &nbsp
-</p>
-
-<p align="left">
    <img alt="Github" src="https://img.shields.io/badge/-GitHub-212121?style=flat&logo=github&logoColor=181717"/> &nbsp
    <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-212121.svg?logo=github&logoColor=181717"> &nbsp
    <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?logo=postman&logoColor=FF6C37"> &nbsp
@@ -58,10 +55,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
    <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-212121?style=flat&logo=laragon&logoColor=FCC624"/> &nbsp
    <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-212121.svg?logo=Replit&logoColor=white"> &nbsp   
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-212121?logo=stack-overflow&logoColor=FE7A16"> &nbsp
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?logo=visual-studio-code&logoColor=0078d7"> &nbsp   
-</p>
-
-<p align="left">   
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-212121.svg?logo=visual-studio-code&logoColor=0078d7"> &nbsp    
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-212121?style=flat&logo=intellij-idea&logoColor=orange"/> &nbsp
    <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-212121.svg?logo=google%20sheets&logoColor=34A853"> &nbsp
    <img alt="Google Docs" src="https://img.shields.io/badge/Docs-212121.svg?logo=google%20docs&logoColor=blue"> &nbsp
