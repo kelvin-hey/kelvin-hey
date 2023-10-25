@@ -77,7 +77,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
   <a href="https://github.com/kelvin-hey/equilux-black"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kelvin-hey&repo=equilux-black&theme=dark&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=ffffff&show_icons=false" alt="equilux-black"></a>      
 </div>
 
-<br>
+<br> 
 
 <!-- Estatísticas -->
 <p align="left">
@@ -103,14 +103,16 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
 <p align="center">
   <!-- Credits of the gif: https://github.com/ahmed-aliraqi 
   <picture><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/dinosauro.gif"></img></picture> 
-</p>
+</p> -->
 
-<!-- Github loading GIF 
+<br>
+
+<!-- Github loading GIF -->
 <p align="center">
-  <!-- Credits of the gif: https://github.com/ahmed-aliraqi 
+  <!-- Credits of the gif: https://github.com/ahmed-aliraqi -->
   <picture><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" width=75px height="75"></picture> 
 </p>
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=555555&center=true&width=435&lines=Loading....." alt="Typing SVG" /></a>
-</p> -->
+</p> 
