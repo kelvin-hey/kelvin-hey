@@ -34,7 +34,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
 </p>
 
 
-#### Back-end
+<b>Back-end</b> <br>
 <p align="left">
       <img alt="Java" src="https://img.shields.io/badge/-Java-212121?style=flat&logo=openjdk&logoColor=yellow"/>
       <img alt="Spring" src="https://img.shields.io/badge/-Spring-212121?style=flat&logo=spring&logoColor=green"/>
@@ -48,7 +48,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
       <img alt="Bash" src="https://img.shields.io/badge/-Bash-212121?style=flat&logo=gnu-bash"/>      
 </p> 
 
-#### Front-end
+<b>Front-end</b> <br>
 <p align="left">
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-212121.svg?logo=markdown&logoColor=white"></a>   
    <img alt="HTML" src="https://img.shields.io/badge/-HTML-212121?style=flat&logo=html5"/>
@@ -56,7 +56,7 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-212121?style=flat&logo=Bootstrap"/>    
 </p>
 
-#### Ferramentas
+<b>Ferramentas</b> <br>
 <p align="left">    
       <img alt="Github" src="https://img.shields.io/badge/-GitHub-212121?style=flat&logo=github&logoColor=181717"/>      
       <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-212121.svg?logo=github&logoColor=181717">
