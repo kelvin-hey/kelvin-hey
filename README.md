@@ -87,18 +87,24 @@ Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me to
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/estatisticas.png" alt="Projetos"/>
 </p>
 
-<!-- 
-<div align="left">
- <a href="https://github.com/kelvin-hey/">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kelvin-hey&bg_color=212121&color=ff9800&line=ffffff&point=FFFFFF&hide_border=true&locale=pt_BR"/>
- </a>
-</div> -->
-
 <div align="left">
   <img width="278" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>   
   <img width="352" height="160" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&layout=compact&show_icons=true&theme=react&bg_color=212121&title_color=ff9800&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>
   <!-- <img width="278" src="https://streak-stats.demolab.com?user=kelvin-hey&layout=compact&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=212121&locale=pt-BR"/> -->
 </div>
+
+<br>
+
+<!-- Contribuições -->
+<p align="left">
+    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/contribuicoes.png" alt="Projetos"/>
+</p>
+
+<div align="left">
+ <a href="https://github.com/kelvin-hey/">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kelvin-hey&bg_color=212121&color=ff9800&line=ffffff&point=FFFFFF&hide_border=true&locale=pt_BR"/>
+ </a>
+</div> 
 
 <br> 
 
