@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me tornar um Desenvolvedor Java. Meu foco principal está no <b>desenvolvimento de back-end</b> onde já tive a oportunidade de atuar como estagiário, trabalhando com a linguagem Object Pascal e também com banco de dados MySQL e Firebird. Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java e explorar suas tecnologias relacionadas. Com um olhar atento para o mundo do desenvolvimento, estou sempre em busca de novos conhecimentos e oportunidades para aprimorar minha carreira nesse campo em constante evolução.
+Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas buscando me tornar um <b>Desenvolvedor Java</b>. Meu foco principal está no <b>desenvolvimento de back-end</b> onde já tive a oportunidade de atuar como estagiário, trabalhando com a linguagem Object Pascal e também com banco de dados MySQL e Firebird. Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java e explorar suas tecnologias relacionadas. Com um olhar atento para o mundo do desenvolvimento, estou sempre em busca de novos conhecimentos e oportunidades para aprimorar minha carreira nesse campo em constante evolução.
 </p>
 
 <!-- <img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28"> -->
