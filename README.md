@@ -42,7 +42,7 @@ Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java 
 <p align="center">
    <img alt="Java" src="https://img.shields.io/badge/-Java-212121?style=flat&logo=openjdk&logoColor=yellow"/> 
    <img alt="Spring" src="https://img.shields.io/badge/-Spring-212121?style=flat&logo=spring&logoColor=green"/>
-   <!--<img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-212121.svg?logo=check-circle&logoColor=25A162"></a>-->
+   <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-212121.svg?logo=check-circle&logoColor=25A162"/>
    <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-212121?style=flat&logo=delphi&logoColor=red"/> 
    <img alt="Linux" src="https://img.shields.io/badge/-Linux-212121?style=flat&logo=linux&logoColor=FCC624"/> 
    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-212121.svg?logo=database&logoColor=white">
