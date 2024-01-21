@@ -29,6 +29,15 @@ Acredito na importância de documentar o processo, e, nesse sentido, também ten
 Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java e explorar suas tecnologias relacionadas. 
 </p>
 
+<!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+   <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kelvinhey/"><img src="https://img.icons8.com/doodle/40/000000/linkedin-circled"></a>   
+	 <a style="margin-left: 10px;" target="_blank" href="https://dev.to/kelvinhey"><img src="https://img.icons8.com/doodle/40/000000/code-file"></a>
+   <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@kelvinhey"><img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>   
+ </div>
+</p>
+
 <!-- <img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28"> -->
 
 <br>
