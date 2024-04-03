@@ -19,16 +19,6 @@
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
 </p>
 
-<p align="left">
-Sou acadêmico do curso de Análise e Desenvolvimento de Sistemas, buscando me tornar um Desenvolvedor Java. Meu foco principal está no desenvolvimento de back-end, onde tive a oportunidade de atuar como estagiário. Durante esse período, trabalhei com a linguagem Object Pascal e também com bancos de dados MySQL, Firebird e PostgreSQL. 
-  
-Além disso, adquiri conhecimento em Cultura DevOps e Metodologias ágeis, incluindo Scrum e Kanban, possuindo conhecimentos também em FDD. Tenho experiência em Testes de Software, envolvendo a geração e execução de Casos de Testes utilizando BDD, bem como a realização de Testes Manuais para garantir a qualidade do software que desenvolvo. 
-
-Acredito na importância de documentar o processo, e, nesse sentido, também tenho experiência na elaboração de documentação, incluindo wikis, para facilitar a colaboração e o entendimento de projetos. 
-
-Atualmente, estou dedicando meu tempo para aprimorar minhas habilidades em Java e explorar suas tecnologias relacionadas. 
-</p>
-
 <!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
