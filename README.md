@@ -26,6 +26,7 @@
    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/kelvinhey"><img src="https://img.icons8.com/doodle/40/000000/code-file"></a>
    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@kelvinhey"><img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a>   
    <a style="margin-left: 10px;" target="_blank" href="https://github.com/search?q=commenter%3Akelvin-hey&type=issues"><img src="https://img.icons8.com/doodle/40/000000/help.png" ></a>      
+   <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/profile/kelvinhey"><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/hackerrank.png"/></a>      
  </div>
 </p>
 
