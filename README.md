@@ -19,6 +19,12 @@
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
 </p>
 
+<p>
+  👨‍💻 Desenvoledor de Software <br>
+  🎓 Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/" target="blank_">Instituto Federal do Paraná - IFPR</a> <br>  
+  🇺🇸 Possuo o <a href="https://cert.efset.org/Sv2EHy">Nível C2 em Inglês</a> <br>  
+</p>
+
 <!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
