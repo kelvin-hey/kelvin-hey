@@ -59,6 +59,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/>  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/>
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-232323?style=flat&logo=wordpress&logoColor=#21759B"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
