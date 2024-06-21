@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  👨‍💻 Desenvoledor de Software <br>
+  💻 Desenvoledor de Software <br>
   🎓 Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/" target="blank_">Instituto Federal do Paraná - IFPR</a> <br>  
   🇺🇸 Possuo o <a href="https://cert.efset.org/Sv2EHy">Nível C2 em Inglês</a> <br>  
 </p>
@@ -46,39 +46,51 @@
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
 </p>
 
-<p align="center">
-   <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> 
-   <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/>
-   <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/>
-   <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/> 
-   <img alt="Linux" src="https://img.shields.io/badge/-Linux-232323?style=flat&logo=linux&logoColor=FCC624"/> 
-   <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white">
-   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/> 
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> 
-   <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/> 
-  <br>  
-   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
-   <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/>
-   <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
-   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/>
+
+#### DESENVOLVIMENTO DE SOFTWARE
+
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> 
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/>
+  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/>
+  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/> 
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-232323?style=flat&logo=linux&logoColor=FCC624"/> 
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/>  
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> 
+  <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/>
+</p> 
+
+#### PROJETOS E PRODUÇÃO DE CONTEÚDO
+
+<p>    
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853">
+  <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue">
+  <img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-232323?logo=libreoffice&logoColor=#18A303">
+  <img alt="Gimp" src="https://img.shields.io/badge/Gimp-232323.svg?logo=gimp&logoColor=5C5543">
+  <img alt="Gimp" src="https://img.shields.io/badge/Canva-232323.svg?logo=canva&logoColor=00C4CC">  
+</p> 
+
+#### SOFTWARES E FERRAMENTAS
+
+<p>    
    <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/>
-   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-232323.svg?logo=github&logoColor=181717">
-   <br>
+   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-232323.svg?logo=github&logoColor=181717">   
    <img alt="Postman" src="https://img.shields.io/badge/Postman-232323?logo=postman&logoColor=FF6C37">
    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-232323?logo=insomnia&logoColor=5849BE">
    <img alt="Android" src="https://img.shields.io/badge/Android-232323?logo=android&logoColor=008678">
    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-232323.svg?logo=android-studio&logoColor=008678">
    <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-232323?style=flat&logo=laragon&logoColor=FCC624"/>   
-   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-232323.svg?logo=Replit&logoColor=white">
-   <br>
+   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-232323.svg?logo=Replit&logoColor=white">   
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-232323?logo=stack-overflow&logoColor=FE7A16">   
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-232323.svg?logo=visual-studio-code&logoColor=0078d7">
-   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/>
-   <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853">
-   <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue">
-</p>
-
-<br>
+   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/>   
+</p> <br>
 
 <!-- Projetos -->
 <p align="center">
