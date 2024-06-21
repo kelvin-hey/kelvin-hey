@@ -81,6 +81,7 @@
 <p>    
    <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/>
    <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-232323.svg?logo=github&logoColor=181717">   
+   <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-232323.svg?logo=filezilla&logoColor=BF0000">   
    <img alt="Postman" src="https://img.shields.io/badge/Postman-232323?logo=postman&logoColor=FF6C37">
    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-232323?logo=insomnia&logoColor=5849BE">
    <img alt="Android" src="https://img.shields.io/badge/Android-232323?logo=android&logoColor=008678">
