@@ -59,11 +59,14 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/>  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/>
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-232323?style=flat&logo=wordpress&logoColor=#21759B"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
+
+  <br>
+  
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-232323?style=flat&logo=wordpress&logoColor=#21759B"/>  
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/>
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
 </p> 
 
 #### PROJETOS E PRODUÇÃO DE CONTEÚDO
@@ -80,8 +83,8 @@
 #### SOFTWARES E FERRAMENTAS
 
 <p>    
-   <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/>
-   <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-232323.svg?logo=github&logoColor=181717">   
+   <img alt="Bash" src="https://img.shields.io/badge/-Bash-232323?style=flat&logo=gnubash&logoColor=4EAA25"/>
+   <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/>   
    <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-232323.svg?logo=filezilla&logoColor=BF0000">   
    <img alt="Postman" src="https://img.shields.io/badge/Postman-232323?logo=postman&logoColor=FF6C37">
    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-232323?logo=insomnia&logoColor=5849BE">
@@ -92,6 +95,7 @@
    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-232323?logo=stack-overflow&logoColor=FE7A16">   
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-232323.svg?logo=visual-studio-code&logoColor=0078d7">
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/>   
+   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-232323?style=flat&logo=googlesearchconsole&logoColor=458CF5"/>   
 </p> <br>
 
 <!-- Projetos -->
