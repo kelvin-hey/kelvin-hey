@@ -13,16 +13,10 @@
 
 <br> -->
 
-<!-- Sobre mim -->
+<!-- Sobre mim --> 
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/sobre_mim.png" alt="Sobre mim"/>
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
-</p>
-
-<p>
-  💻 Desenvoledor de Software <br>
-  🎓 Formado em Análise e Desenvolvimento de Sistemas pelo <a href="https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/" target="blank_">Instituto Federal do Paraná - IFPR</a> <br>  
-  🇺🇸 Possuo o <a href="https://cert.efset.org/Sv2EHy">Nível C2 em Inglês</a> <br>  
 </p>
 
 <!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
@@ -35,6 +29,56 @@
    <a style="margin-left: 10px;" target="_blank" href="https://github.com/search?q=commenter%3Akelvin-hey&type=issues"><img src="https://img.icons8.com/doodle/40/000000/help.png" ></a>              
  </div>
 </p>
+
+<img height="26" src="https://shields.io/badge/ℹ️-161B22?style=flat-square"/> <img height="26" src="https://shields.io/badge/INFORMAÇÕES_PESSOAIS-161B22?style=flat-square"/> 
+
+```JSON
+{  
+  "nome": "Kelvin Hey",
+  "idade": 24,
+  "sexo": "masculino",
+  "endereco": {                  
+    "País": "Brasil",
+    "estado": "PR",
+    "cidade": "Imbituva"      
+  }
+}
+```
+<br>
+
+<img height="26" src="https://shields.io/badge/🎓-161B22?style=flat-square"/> <img height="26" src="https://shields.io/badge/FORMAÇÃO_ACADÊMICA-161B22?style=flat-square"/> 
+
+```JSON
+{
+  "Curso": "Análise e Desenvolvimento de Sistemas",
+  "Instituição": "Instituto Federal do Paraná - IFPR",
+  "Nível": "Superior",
+  "Tipo": "Tecnólogo",
+  "Modalidade": "Presencial",
+  "Situação": "Concluído"
+}
+```
+##### 💡 Acesse a página do curso no site do IFPR clicando <a href="https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/">aqui</a>
+
+<br>
+
+<img height="26" src="https://shields.io/badge/🇺🇸-161B22?style=flat-square"/> <img height="26" src="https://shields.io/badge/IDIOMAS-161B22?style=flat-square"/> 
+
+```JSON
+{
+  "Inglês": {
+    "Nível": "Proficiente",
+    "Classificação": "C2",
+    "Certificações": [
+      {
+        "Nome": "EF SET",
+        "Pontuação": "88/100"
+      }
+    ]
+  }
+}
+```
+##### 💡 Veja minha pontuação no teste EF SET clicando <a href="https://cert.efset.org/Sv2EHy">aqui</a>
 
 <!-- <img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28" height="28"> -->
 
