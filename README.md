@@ -36,7 +36,6 @@
 {  
   "nome": "Kelvin Hey",
   "idade": 24,
-  "sexo": "masculino",
   "endereco": {                  
     "País": "Brasil",
     "estado": "PR",
