@@ -46,8 +46,7 @@
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
 </p>
 
-
-#### DESENVOLVIMENTO DE SOFTWARE
+<img height="26" src="https://shields.io/badge/🖥️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/DESENVOLVIMENTO_DE_SOFTWARE-232323?style=flat-square"/> 
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> 
@@ -67,20 +66,9 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
-</p> 
+</p> <br>
 
-#### PROJETOS E PRODUÇÃO DE CONTEÚDO
-
-<p>    
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853">
-  <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue">
-  <img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-232323?logo=libreoffice&logoColor=#18A303">
-  <img alt="Gimp" src="https://img.shields.io/badge/Gimp-232323.svg?logo=gimp&logoColor=5C5543">
-  <img alt="Gimp" src="https://img.shields.io/badge/Canva-232323.svg?logo=canva&logoColor=00C4CC">  
-</p> 
-
-#### SOFTWARES E FERRAMENTAS
+<img height="26" src="https://shields.io/badge/🛠️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/SOFTWARES_E_FERRAMENTAS-232323?style=flat-square"/>
 
 <p>    
    <img alt="Bash" src="https://img.shields.io/badge/-Bash-232323?style=flat&logo=gnubash&logoColor=4EAA25"/>
@@ -96,6 +84,18 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-232323.svg?logo=visual-studio-code&logoColor=0078d7">
    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/>   
    <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-232323?style=flat&logo=googlesearchconsole&logoColor=458CF5"/>   
+</p> <br>
+
+
+<img height="26" src="https://shields.io/badge/▶️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/PROJETOS_E_PRODUÇÃO_DE_CONTEÚDO-232323?style=flat-square"/>
+
+<p>    
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC">
+  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853">
+  <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue">
+  <img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-232323?logo=libreoffice&logoColor=#18A303">
+  <img alt="Gimp" src="https://img.shields.io/badge/Gimp-232323.svg?logo=gimp&logoColor=5C5543">
+  <img alt="Gimp" src="https://img.shields.io/badge/Canva-232323.svg?logo=canva&logoColor=00C4CC">  
 </p> <br>
 
 <!-- Projetos -->
