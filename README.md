@@ -91,7 +91,7 @@
 
 <img height="26" src="https://shields.io/badge/🖥️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/DESENVOLVIMENTO_DE_SOFTWARE-232323?style=flat-square"/> 
 
-##### 💬 Linguagens de programação e tecnologias com as quais eu trabalho/estudo ou que já utilizei em determinado momento:
+##### 💬 Linguagens de programação e tecnologias com as quais eu trabalho/estudo ou que já utilizei em determinado momento
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> 
@@ -112,7 +112,7 @@
 
 <img height="26" src="https://shields.io/badge/🛠️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/SOFTWARES_E_FERRAMENTAS-232323?style=flat-square"/>
 
-##### 💬 Ferramentas que utilizo no meu dia a dia ou que em determinado momento tive contato: 
+##### 💬 Ferramentas que utilizo no meu dia a dia ou que já tive contato
 
 <p>            
    <img alt="Bash" src="https://img.shields.io/badge/-Bash-232323?style=flat&logo=gnubash&logoColor=4EAA25"/> 
@@ -135,7 +135,7 @@
 </p> <br>
 
 <img height="26" src="https://shields.io/badge/▶️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/PROJETOS_E_PRODUÇÃO_DE_CONTEÚDO-232323?style=flat-square"/>
-##### 💬 Ferramentas que utilizo para organizar meus projetos e tarefas bem como produzir conteúdo quando necessito:
+##### 💬 Ferramentas que utilizo para organizar meus projetos e tarefas bem como produzir conteúdo quando necessito
 
 <p>    
   <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC">
