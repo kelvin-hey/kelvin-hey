@@ -104,16 +104,14 @@
 <br>
 
 <img height="26" src="https://shields.io/badge/▶️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/PROJETOS_E_PRODUÇÃO_DE_CONTEÚDO-232323?style=flat-square"/>
+
 ##### 💬 Ferramentas que utilizo para organizar meus projetos e tarefas bem como produzir conteúdo quando necessito
 
-<p>    
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC">
-  <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853">
-  <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue">
-  <img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-232323?logo=libreoffice&logoColor=#18A303">
-  <img alt="Gimp" src="https://img.shields.io/badge/Gimp-232323.svg?logo=gimp&logoColor=5C5543">
-  <img alt="Gimp" src="https://img.shields.io/badge/Canva-232323.svg?logo=canva&logoColor=00C4CC">  
-</p> <br>
+| Documentos | Edição de Imagens | Edição de Vídeo |
+|:-:|:-:|:-:|
+| <img alt="Trello" src="https://img.shields.io/badge/Trello-232323?logo=trello&logoColor=0052CC"> <img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-232323.svg?logo=google%20sheets&logoColor=34A853"> <img alt="Google Docs" src="https://img.shields.io/badge/Docs-232323.svg?logo=google%20docs&logoColor=blue"> <img alt="Libre Office" src="https://img.shields.io/badge/Libre Office-232323?logo=libreoffice&logoColor=#18A303"> | <img alt="Gimp" src="https://img.shields.io/badge/Gimp-232323.svg?logo=gimp&logoColor=5C5543"> <img alt="Canva" src="https://img.shields.io/badge/Canva-232323.svg?logo=canva&logoColor=00C4CC"> | <img alt="Shotcut" src="https://img.shields.io/badge/Shotcut-232323"> <img alt="CapCut" src="https://img.shields.io/badge/CapCut-232323"> <img alt="Avidemux" src="https://img.shields.io/badge/Avidemux-232323"> |
+
+<br>
 
 <!-- Projetos -->
 <p align="center">
