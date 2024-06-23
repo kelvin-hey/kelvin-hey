@@ -89,26 +89,14 @@
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
 </p>
 
-<img height="26" src="https://shields.io/badge/🖥️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/DESENVOLVIMENTO_DE_SOFTWARE-232323?style=flat-square"/> 
-
+<img height="26" src="https://shields.io/badge/🖥️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/DESENVOLVIMENTO_DE_SOFTWARE-232323?style=flat-square"/>
 ##### 💬 Linguagens de programação e tecnologias com as quais eu trabalho/estudo ou que já utilizei em determinado momento
 
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> 
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/>
-  <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/>
-  <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/>   
-  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/>  
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/>   
+| Back-end | Front-end |
+|---|---|
+| <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/> <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/> <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/> <br> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> | <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"/> <br> <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/> | 
 
-  <br>
-    
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/>
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"></a>
-</p> <br>
+<br>
 
 <img height="26" src="https://shields.io/badge/🛠️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/SOFTWARES_E_FERRAMENTAS-232323?style=flat-square"/>
 
