@@ -94,7 +94,7 @@
 
 | Back-end | Front-end |
 |---|---|
-| <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/> <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/> <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/> <br> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> | <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"/> <br> <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/> | 
+| <img alt="Java" src="https://img.shields.io/badge/-Java-232323?style=flat&logo=openjdk&logoColor=yellow"/> <img alt="Spring" src="https://img.shields.io/badge/-Spring-232323?style=flat&logo=spring&logoColor=green"/> <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-232323.svg?logo=check-circle&logoColor=25A162"/> <img alt="Delphi" src="https://img.shields.io/badge/-Delphi-232323?style=flat&logo=delphi&logoColor=red"/> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-232323.svg?logo=database&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-232323?style=flat&logo=mysql"/> <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-232323?style=flat&logo=postgresql"/> | <img alt="HTML" src="https://img.shields.io/badge/-HTML-232323?style=flat&logo=html5"/> <img alt="Markdown" src="https://img.shields.io/badge/Markdown-232323.svg?logo=markdown&logoColor=white"/> <img alt="CSS" src="https://img.shields.io/badge/-CSS-232323?style=flat&logo=css3"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-232323?style=flat&logo=Bootstrap"/> | 
 
 <br>
 
@@ -102,25 +102,11 @@
 
 ##### 💬 Ferramentas que utilizo no meu dia a dia ou que já tive contato
 
-<p>            
-   <img alt="Bash" src="https://img.shields.io/badge/-Bash-232323?style=flat&logo=gnubash&logoColor=4EAA25"/> 
-   <img alt="Linux" src="https://img.shields.io/badge/-Linux-232323?style=flat&logo=linux&logoColor=FCC624"/>    
-   <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/>
-   <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/>      
-   <img alt="Postman" src="https://img.shields.io/badge/Postman-232323?logo=postman&logoColor=FF6C37">
-   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-232323?logo=insomnia&logoColor=5849BE">   
-   <img alt="Laragon" src="https://img.shields.io/badge/-Laragon-232323?style=flat&logo=laragon&logoColor=FCC624"/>   
-   <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-232323.svg?logo=Replit&logoColor=white">      
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-232323.svg?logo=visual-studio-code&logoColor=0078d7">
-   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/>   
-   
-   <br>
-   
-   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-232323?style=flat&logo=wordpress&logoColor=#21759B"/>  
-   <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-232323.svg?logo=filezilla&logoColor=BF0000">   
-   <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-232323.svg?style=flat&logo=php&logoColor=%23777BB4"/>  
-   <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-232323?style=flat&logo=googlesearchconsole&logoColor=458CF5"/>     
-</p> <br>
+| Versionamento | API | IDE | Banco de Dados | CMS | Outros |
+|---|---|---|---|---|---|
+| <img alt="Github" src="https://img.shields.io/badge/-GitHub-232323?style=flat&logo=github&logoColor=181717"/> <img alt="Git" src="https://img.shields.io/badge/-Git-232323?style=flat&logo=git&logoColor=F05032"/> | <img alt="Postman" src="https://img.shields.io/badge/Postman-232323?logo=postman&logoColor=FF6C37"> <br> <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-232323?logo=insomnia&logoColor=5849BE"> | <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-232323.svg?logo=visual-studio-code&logoColor=0078d7"> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-232323.svg?style=flat&logo=Eclipse&logoColor=FE7A16"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-232323?style=flat&logo=intellij-idea&logoColor=orange"/> <img alt="Netbeans" src="https://img.shields.io/badge/NetBeansIDE-232323.svg?style=flat&logo=apache-netbeans-ide&logoColor=1B6AC6"/> | <img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-232323.svg?style=flat&logo=php&logoColor=%23777BB4"/> <br> <img alt="phpMyAdmin" src="https://img.shields.io/badge/MySQL_Workbench-232323.svg?style=flat&logo=mysql&logoColor=4479A1"/> | <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-232323?style=flat&logo=wordpress&logoColor=#21759B"/> | <img alt="Google Search Console" src="https://img.shields.io/badge/-Google Search Console-232323?style=flat&logo=googlesearchconsole&logoColor=458CF5"/> <br> <img alt="Bash" src="https://img.shields.io/badge/-Bash-232323?style=flat&logo=gnubash&logoColor=4EAA25"/> <img alt="Linux" src="https://img.shields.io/badge/-Linux-232323?style=flat&logo=linux&logoColor=FCC624"/> <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-232323.svg?logo=filezilla&logoColor=BF0000"> | 
+
+<br>
 
 <img height="26" src="https://shields.io/badge/▶️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/PROJETOS_E_PRODUÇÃO_DE_CONTEÚDO-232323?style=flat-square"/>
 ##### 💬 Ferramentas que utilizo para organizar meus projetos e tarefas bem como produzir conteúdo quando necessito
