@@ -11,7 +11,7 @@
 <!-- Sobre mim --> 
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/sobre_mim.png" alt="Sobre mim"/>
-    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+    <!-- <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/> -->
 </p>
 
 <!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
@@ -82,7 +82,7 @@
 <!-- Tecnologias -->
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/tecnologias.png" alt="Tecnologias"/>
-    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+    <!-- <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/> -->
 </p>
 
 <img height="26" src="https://shields.io/badge/🖥️-232323?style=flat-square"/> <img height="26" src="https://shields.io/badge/DESENVOLVIMENTO_DE_SOFTWARE-232323?style=flat-square"/>
@@ -114,10 +114,10 @@
 
 <br>
 
-<!-- Projetos -->
+<!--- Projetos --->
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/projetos.png" alt="Projetos"/>
-    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+    <!-- <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/> -->
 </p>
 
 <div align="center">   
@@ -131,10 +131,10 @@
 
 <br> 
 
-<!-- Contribuições -->
+<!--- Contribuições --->
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/contribuicoes.png" alt="Projetos"/>
-    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+    <!-- <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/> -->
 </p>
 
 <div align="center">
@@ -145,16 +145,15 @@
 
 <br> 
 
-<!-- Estatísticas -->
+<!--- Estatísticas --->
 <p align="center">
     <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/estatisticas.png" alt="Projetos"/>
-    <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+    <!-- <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/> -->
 </p>
 
 <div align="center">
   <img width="278" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-hey&locale=pt-BR&layout=compact&theme=react&bg_color=232323&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>   
-  <img width="352" height="160" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&layout=compact&show_icons=true&theme=react&bg_color=232323&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>
-  <!-- <img width="278" src="https://streak-stats.demolab.com?user=kelvin-hey&layout=compact&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&background=232323&locale=pt-BR"/> -->
+  <img width="352" height="160" src="https://github-readme-stats.vercel.app/api?username=kelvin-hey&locale=pt-BR&layout=compact&show_icons=true&theme=react&bg_color=232323&title_color=ffffff&hide_border=true&icon_color=F8D866&show_icons=false" style"max-width: 100%;"/>  
 </div>
 
 <!--
