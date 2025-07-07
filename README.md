@@ -17,7 +17,6 @@
 <!--------------------------------------------------------------- Icons by Icons8 | https://icons8.com/ ------------------------------------------------------------->
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">   
-   <a style="margin-left: 10px;" target="_blank" href="https://kelvin-hey.github.io/my-website/index.html"><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/website.png" ></a>   
    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@kelvinhey"><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/youtube.png" ></a>   
    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/kelvinhey/"><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/linkedin.png"></a>
    <a style="margin-left: 10px;" target="_blank" href="https://dev.to/kelvinhey"><img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/devto.png"></a>   
